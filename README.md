@@ -5,7 +5,7 @@
 Developed an OCR-based document intelligence pipeline using **LLaMA via Groq API** to transform unstructured image data into structured JSON outputs.
 The system combines image preprocessing, OCR enhancement, and prompt-engineered LLM workflows for accurate data extraction from noisy and complex document images.
 
----
+
 
 ## Features
 
@@ -17,7 +17,7 @@ The system combines image preprocessing, OCR enhancement, and prompt-engineered 
 * Prompt engineering for consistent LLM responses
 * Converts visual document content into machine-readable formats
 
----
+
 
 ## Tech Stack
 
@@ -27,7 +27,7 @@ The system combines image preprocessing, OCR enhancement, and prompt-engineered 
 * LLaMA (Groq API)
 * JSON Processing
 
----
+
 
 ## Workflow
 
@@ -38,7 +38,7 @@ The system combines image preprocessing, OCR enhancement, and prompt-engineered 
 5. LLM-based structured data generation
 6. JSON post-processing and validation
 
----
+
 
 ## Image Processing Techniques
 
@@ -49,7 +49,7 @@ The system combines image preprocessing, OCR enhancement, and prompt-engineered 
 * Circular region extraction
 * ROI (Region of Interest) isolation
 
----
+
 
 ## LLM Integration
 
@@ -60,7 +60,7 @@ Implemented prompt engineering strategies to:
 * Handle noisy OCR outputs
 * Extract relevant semantic information
 
----
+
 
 ## Output Example
 
@@ -83,9 +83,9 @@ Implemented prompt engineering strategies to:
     "additional_text": "Incorporated in England with limited liability"
   }
 }
-```
 
----
+
+
 
 ## Key Contributions
 
@@ -94,7 +94,7 @@ Implemented prompt engineering strategies to:
 * Improved OCR-to-JSON conversion accuracy using prompt engineering
 * Automated extraction of machine-readable document data
 
----
+
 
 ## Future Improvements
 
@@ -103,7 +103,7 @@ Implemented prompt engineering strategies to:
 * Layout-aware document parsing
 * Real-time API deployment
 
----
+
 
 ## Use Cases
 
